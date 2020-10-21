@@ -1,0 +1,66 @@
+body
+{
+	background-color: #2D3E50;
+}
+table
+{
+	margin:0px auto;
+	width: 500px;
+	text-align:center;
+	background-color:#71FF7F;
+	border-collapse: collapse;
+}
+td
+{
+	padding:5px;
+}
+#btn
+{
+	display:block;
+	width:845px;
+	margin:0px auto;
+	background-color:#5AE899;
+	color:white;
+	font-size: 30px;
+	font-weight: bold;
+}
+.kutu1
+{
+	width:900px;
+	height:450px;
+	margin:10px auto;
+
+}
+h1
+{
+	color: #1fecc2;
+	font-size:60px;
+	font-family:Verdana;
+	text-shadow:0px 50px 5px #12836c;
+	margin-bottom:60px;
+}
+input
+{
+	width:50px;
+}
+.resim
+{
+	width:300px;
+	height:300px;
+	position:absolute;
+	right:100px;
+	top:240px;
+	z-index:2;
+}
+.golge
+{
+	width:250px;
+	height:298px;
+	background-color: black;
+	position:absolute;
+	right:100px;
+	top:250px;
+	z-index:1;
+	border-radius:50px;
+	opacity:0.5;
+}
